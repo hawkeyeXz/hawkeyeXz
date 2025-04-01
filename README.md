@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Ryuk, a passionate cybersecurity enthusiast, full-stack developer, and ethical hacker. I love exploring penetration testing, secure coding, and building robust web applications.<br><br>💻 My expertise includes:<br><br>🛡 Cybersecurity & Ethical Hacking (CTFs, pentesting, OSINT)<br><br>⚙️ Backend Development (Node.js, Python, databases)<br><br>🎨 Frontend Development (React.js, Next.js, Tailwind CSS)<br><br>🔍 Bug Hunting & Security Research<br><br>🚀 Currently diving deeper into TypeScript & advanced backend systems.<br>📚 Always up for learning & experimenting with new security tools & frameworks!
+👋 Hey there! I'm Fajlur, a passionate cybersecurity enthusiast, full-stack developer, and ethical hacker. I love exploring penetration testing, secure coding, and building robust web applications.<br><br>💻 My expertise includes:<br><br>🛡 Cybersecurity & Ethical Hacking (CTFs, pentesting, OSINT)<br><br>⚙️ Backend Development (Node.js, Python, databases)<br><br>🎨 Frontend Development (React.js, Next.js, Tailwind CSS)<br><br>🔍 Bug Hunting & Security Research<br><br>🚀 Currently diving deeper into TypeScript & advanced backend systems.<br>📚 Always up for learning & experimenting with new security tools & frameworks!
 
 
 ## 🌐 Socials:
