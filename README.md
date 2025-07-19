@@ -1,5 +1,5 @@
-# About Me:
-I'm Fajlur, a full-stack developer and cybersecurity enthusiast focused on building secure, scalable web applications. I specialize in modern technologies like React, Next.js, Node.js, and Python, with a strong emphasis on writing clean, efficient code.
+# About Me
+I'm `Fajlur`, a full-stack developer and cybersecurity enthusiast focused on building secure, scalable web applications. I specialize in modern technologies like React, Next.js, Node.js, and Python, with a strong emphasis on writing clean, efficient code.
 
 Beyond development, I'm actively involved in ethical hacking and penetration testing on platforms like Hack The Box. With a deep interest in offensive security, I continuously explore vulnerabilities, security tools, and secure coding practices to bridge the gap between development and cybersecurity.
 
@@ -9,7 +9,7 @@ Driven by curiosity and a commitment to learning, I aim to create technology tha
 
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/hawkeyeXz0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fajlurgit@gmail.com) [![HTB](https://img.shields.io/badge/HTB-111927?logo=hackthebox&logoColor=00FF00)](https://app.hackthebox.com/profile/2171289)[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?logo=bugcrowd&logoColor=white)](https://bugcrowd.com/hawkeye_rt)[![HackerOne](https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=white)](https://hackerone.com/hawkeye_rt)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/hawkeyeXz0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fajlurgit@gmail.com) [![HTB](https://img.shields.io/badge/HTB-111927?logo=hackthebox&logoColor=00FF00)](https://app.hackthebox.com/profile/2171289) [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?logo=bugcrowd&logoColor=white)](https://bugcrowd.com/hawkeye_rt) [![HackerOne](https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=white)](https://hackerone.com/hawkeye_rt)
 
 
 
