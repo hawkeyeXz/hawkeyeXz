@@ -1,6 +1,6 @@
 # About Me
-Hi!! I'm Fajlur.
-Into Cloud, Security, and DevOps, with a background in Physics.
+Hi!! I'm Fajlur.<br>
+Into Cloud, Security, and DevOps, with a background in Physics.<br>
 Thank you for visiting my profile. Check out my projects.
 
 
